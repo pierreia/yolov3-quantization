@@ -22,11 +22,11 @@ You can download the YOLO v3 weights **coco_yolo3.h5** here: https://jeffpro.blo
 
 ### Before quantization
 
-![Before_qt](before_qt.png, "Before quantization")
+![Before_qt](before_qt.jpg)
 
 ### After quantization
 
-![After_qt](after_qt.png, "After quantization")
+![After_qt](after_qt.jpg)
 
 *Disclaimer*: This is not the result of any research of any kind, the purpose of this example is to see how much information  
 a detection model loses when we quantize their weights in "1.58" bits. Also, there is a small "hack" in this example:  
