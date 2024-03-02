@@ -1,5 +1,5 @@
 # YOLOv3 1.58 bits quantization  
-Small experiment with quantization on YOLO v7 model.  
+Small experiment with quantization on YOLO v3 model.  
   
 This example takes n convolutional layers randomly from a **YOLO v3** model, quantizes their weights and compare the results from regular weights.  
   
